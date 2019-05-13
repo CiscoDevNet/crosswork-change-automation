@@ -1,4 +1,4 @@
-# crosswork-change-automation
+# Crosswork Change Automation
 
 This repository contains sample custom playbook archives for Crosswork Change Automation.
 
@@ -6,6 +6,6 @@ This repository contains sample custom playbook archives for Crosswork Change Au
 # Requirements
 To use this Change automation playbook, will need:
 
-Cisco Crosswork Change Automation and Health Insights 3.0 +
+* Cisco Crosswork Change Automation and Health Insights 3.0 +
 
-Cisco NSO 4.5.5 +
+* Cisco NSO 4.5.5 +
