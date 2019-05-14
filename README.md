@@ -2,7 +2,7 @@
 
 This repository contains sample custom playbook archives that can be used to interact with Crosswork Change Automation.
 
-The archive provides sample custom playbooks, that can be built, to interact with Change Automation. Feel free to add new custom playbooks and if you want to contribute the same, raise a pull request with your modifications/additions.
+Feel free to add new custom playbooks and if you want to contribute the same, raise a pull request with your modifications/additions.
 
 
 # Requirements
